@@ -1,1 +1,2 @@
-create text1.txt file
+The text1.txt file is a github based file this is used to learn the github 
+Github is a version control management software we can store our projects etc.
